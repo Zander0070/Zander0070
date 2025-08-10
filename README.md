@@ -1,5 +1,5 @@
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zander0070&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zander0070&theme=radical)
 
 
